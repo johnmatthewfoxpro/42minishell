@@ -1,0 +1,11 @@
+VS Code
+.vscode/
+
+OS files
+.DS_Store
+Thumbs.db
+
+/test
+/object_files
+minishell
+libft.a
